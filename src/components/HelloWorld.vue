@@ -2,6 +2,7 @@
   <div class="hello">
     <h2>{{ msg1 }}</h2>
     <h1>{{ msg2 }}</h1>
+    <h3>{{ msg3 }}</h3>
   </div>
 </template>
 
@@ -12,6 +13,7 @@ export default {
     return {
       msg1: 'Welcome to My World',
       msg2: 'Meng-lin Hsieh Protfolio',
+      msg3: '個人網站架設測試成功',
     }
   }
 }
