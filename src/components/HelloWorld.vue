@@ -12,7 +12,7 @@ export default {
   data () {
     return {
       msg1: 'Welcome to My World',
-      msg2: 'Meng-lin Hsieh Protfolio',
+      msg2: 'Meng-lin Hsieh Portfolio',
       msg3: '個人網站架設測試成功',
     }
   }
